@@ -1,0 +1,66 @@
+projects:
+  project1 : 3
+  project2 : 0.20
+  project3 : 0.50
+  project4 : 0.50
+  project5 : 0.20
+  project6 : 1.20
+  project7 : 2.00
+  project8 : 4.00
+  project9 : 2.00
+  projectA : 0.5
+  projectB: 0.5
+  projectC: 2.0
+  projectD: 0.3
+  projectE: 0.3
+employees:
+  alice :
+    projectE: [0.5, 1.0]
+    project1: [0.3, 1.0]
+  bob :
+    project6: [0.4, 1.0]
+    project8: [0.4, 1.0]
+  charlie :
+    projectB: [0.2, 1.0]
+    projectC: [0.2, 1.0]
+  dave :
+    project9: [0.0, 0.0]
+    projectC: [0.0, 1.0]
+    project1: [0.5, 1.0]
+  eve :
+    project1: [0.5, 1.0]
+    projectD: [0.1, 1.0]
+  frank :
+    project2: [0.1, 1.0]
+  grace :
+    project3: [0.3, 1.0]
+    project9: [0.3, 1.0]
+  heidi :
+    project7: [0.5, 1.0]
+    project1: [0.2, 1.0]
+  judy :
+    project6: [0.4, 1.0]
+    projectC: [0.4, 1.0]
+    project8: [0.4, 1.0]
+  mallory :
+    project6: [0.3, 0.8]
+    project8: [0.3, 0.9]
+  olivia :
+    project9: [0.7, 1.0]
+  peggy :
+    project5: [0.1, 1.0]
+    projectE: [0.5, 1.0]
+  sybil :
+    projectA: [0.2, 1.0]
+  trent:
+    project7: [0.1, 1.0]
+    project6: [0.1, 1.0]
+    project8: [0.1, 1.0]
+  victor:
+    project6: [0.1, 1.0]
+    project8: [0.1, 1.0]
+  walter:
+    project6: [0.1, 1.0]
+    project8: [0.1, 1.0]
+    project9: [0.1, 1.0]
+    project5: [0.1, 1.0]
